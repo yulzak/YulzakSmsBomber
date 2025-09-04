@@ -55,18 +55,9 @@ py main.py
 
 ## 🎥 Demo Video
 
-[📺 Demo Video İzle](https://youtube.com/watch?v=VIDEO_ID)  
-> `VIDEO_ID` kısmını kendi YouTube linkinle değiştir.
+[📺 Demo Video İzle](https://youtube.com/watch?v=VIDEO_ID) 
 
 ---
-
-## 🖼 Görseller
-
-PNG görselini repo’ya ekleyip kullanabilirsiniz:  
-
-```markdown
-![YulzakSmsBomber](images/demo.png)
-```
 
 ## ⚠ Sorumluluk Reddi
 
@@ -93,18 +84,6 @@ PNG görselini repo’ya ekleyip kullanabilirsiniz:
 | YouTube  | [Yulzak](https://youtube.com/@Yulzak) |
 | Instagram| [@Yulvez](https://instagram.com/yulvez) |
 | E-posta  | yulzak77@gmail.com |
-
----
-
-## 🏅 Badge Önerileri
-
-```markdown
-![Platform](https://img.shields.io/badge/Platform-Windows%20%26%20Mobile-blue?style=for-the-badge&logo=windows)
-![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=check)
-![Language](https://img.shields.io/badge/Language-Node.js%20%2F%20Python-yellow?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-None-lightgrey?style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)
-```
 
 ---
 
